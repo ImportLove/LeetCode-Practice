@@ -1,4 +1,4 @@
-This is the folder to record my practising LeetCode problem
+This is the folder to record my practicing LeetCode problem
 ==========================
 Keep Calm and Carry On!
 
